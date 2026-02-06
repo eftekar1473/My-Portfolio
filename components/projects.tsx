@@ -5,11 +5,10 @@ import { Button } from "@/components/ui/button";
 import { ExternalLink, Github, ArrowRight } from "lucide-react";
 
 const featuredProject = {
-  title: "Thinkify",
-  subtitle: "Connecting Ideas, Inspiring Perspectives",
-  description:
-    "Thinkify is a vibrant space where people from diverse backgrounds and interests come together to engage in meaningful conversations, fostering an environment rich in idea exchange, knowledge...",
-  tags: ["express", "mongodb", "react"],
+  title: "Nexus Point",
+  subtitle: "Decentralized Collaboration for Local Impact",
+  description: "Nexus Point is a community-driven engine that bridges the gap between digital brainstorming and real-world execution. Using a scalable MERN architecture, it empowers neighborhoods to propose initiatives and track collective progress.",
+  tags: ["Express", "MongoDB", "React"],
   image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
   liveUrl: "#",
   codeUrl: "#",

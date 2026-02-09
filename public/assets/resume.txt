@@ -1,0 +1,49 @@
+EFTEKAR HOSSEN
+Software Engineer
+
+Contact Information:
+Email: eftekarhossen3223@gmail.com
+Phone: +880 1844898024
+GitHub: https://github.com/eftekar1473
+LinkedIn: https://www.linkedin.com/in/eftekar-hossen-6b088a245
+
+OBJECTIVE:
+Passionate software engineer dedicated to building innovative solutions and contributing to meaningful projects.
+
+SKILLS:
+Backend: TypeScript, Node.js, Express.js
+Frontend: HTML5, CSS3, JavaScript, React
+Database: MySQL, MongoDB, Firebase
+Mobile: Flutter, Android Studio
+AI/ML: Python, TensorFlow, OpenCV
+IoT: Arduino, ESP32, Raspberry Pi
+Other: Git, Linux, Docker, Kubernetes
+
+EXPERIENCE:
+Software Engineer | Current Role
+- Building web and mobile applications
+- Contributing to open source projects
+- Mentoring junior developers
+
+EDUCATION:
+Engineering Degree in Software/Computer Engineering
+Technical Certifications in Web Development
+
+PROJECTS:
+1. Thinkify - Social discussion platform (Express, MongoDB, React)
+2. AskIIT - Q&A platform
+3. VroomGo - Car rental application
+4. Joinify - Student organization management system
+5. Househive - Real estate platform
+
+ACTIVITIES & LEADERSHIP:
+- Bangladesh National Cadet Corps (Cadet Corporal)
+- NSTU Mechatronics Club (Joint Secretary)
+- NSTU Debating Society (Sub Executive Member)
+- Tech Community Lead
+- Open Source Contributor
+
+CERTIFICATIONS:
+Web Development Fundamentals
+Mobile App Development
+Cloud Computing
